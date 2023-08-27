@@ -77,5 +77,13 @@ A lista de passos mais comum é:
 7. link com o repositorio local e remoto --> git remote add origin <url-do-repositorio>
 8. Envie mudanças para o repositorio remoto --> git push -u origin master
 
+Depois e necessario sempre dar os passos de:
+```
+> git commit -m "Mensagem"
+> git push -u origin master
+```
+
+## Proximo tema
+
 
 
